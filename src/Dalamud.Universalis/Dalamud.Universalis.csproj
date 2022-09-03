@@ -41,4 +41,7 @@
 			<Private>False</Private>
 		</Reference>
 	</ItemGroup>
+	<ItemGroup>
+	  <None Remove="config.nswag" />
+	</ItemGroup>
 </Project>
